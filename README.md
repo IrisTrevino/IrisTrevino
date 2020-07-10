@@ -1,7 +1,7 @@
-### **Hello World!** :hatching_chick:
-### I'm Iris, a 28 year old Software Dev in San Antonio, TX
+### :hatching_chick: **Hello World!** :hatching_chick:
+### :lotus_position_woman: I'm Iris, a 28 year old Software Dev in San Antonio, TX
 ### 🌱 I'm currently wraping up my Bachelors in Computer Science
-###
+### :computer: #100DaysOfCode coming soon! 
 ### 
 ###
 ### 💬 Please visit my Link Tree for details on contacting me
