@@ -1,10 +1,8 @@
 ### :hatching_chick: **Hello World!** :hatching_chick:
-### :lotus_position_woman: I'm Iris, a 28 year old Software Dev in San Antonio, TX
-### 🌱 I'm currently wraping up my Bachelors in Computer Science
-### :computer: #100DaysOfCode coming soon! 
+### :lotus_position_woman: I'm Iris, a 28 year old programmer in San Antonio, TX
+### 🌱 I'm currently wraping up my Bachelors in Computer Science 
 ### 
 ###
-### 💬 Please visit my Link Tree for details on contacting me
 
 <!--
 **IrisTrevino/IrisTrevino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
