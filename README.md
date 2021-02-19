@@ -1,7 +1,7 @@
 ### :hatching_chick: **Hello World!** :hatching_chick:
-### :lotus_position_woman: I'm Iris, a 28 year old programmer in San Antonio, TX
-### 🌱 I'm currently wrapping up my Bachelors in Computer Science 
-### 
-###
+#:sparkling_heart: I'm Iris! 
+#A 29 year old aspiring dev in San Antonio, TX
+#:mortar_board: I'm currently wrapping up my Bachelors in Computer Science 
+
 
 
