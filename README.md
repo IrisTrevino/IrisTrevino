@@ -2,9 +2,11 @@
 
 :sparkling_heart: I'm Iris! 
 
-I'm an aspiring dev in San Antonio, TX
+I'm a Software Developer in San Antonio, TX
 
-:mortar_board: I'm currently wrapping up my Bachelors in Computer Science 
+Mostly work with Python & Golang 
+
+
 
 
 
