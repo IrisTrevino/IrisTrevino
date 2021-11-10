@@ -4,9 +4,5 @@
 
 I'm a Software Developer in San Antonio, TX
 
-Mostly work with Python & Golang 
-
-
-
-
+I mostly wrestle snakes & gophers. 
 
