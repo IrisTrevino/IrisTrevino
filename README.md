@@ -1,9 +1,5 @@
 # <div align="center">👋 Hi, I'm Iris!</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Espresso+%E2%98%95+%2B+Code+%3D+Magic" alt="Typing SVG" />
-</div>
-
 ## 💻 About Me
 
 Backend enthusiast with a passion for building robust systems that power the web! 
