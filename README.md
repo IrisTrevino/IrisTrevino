@@ -1,6 +1,6 @@
 # 🌿 Hey there!🌿 
 
-** Software Engineer | Plant Parent | Maker | Creature Keeper**
+Software Engineer | Plant Parent | Maker | Creature Keeper
 
 I'm a people-oriented problem solver who happens to write code for a living. With 15+ years in IT under my belt, I've learned that the best solutions come from understanding both the technology *and* the humans behind it.
 
