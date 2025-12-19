@@ -1,17 +1,17 @@
 # 🌿 Hey there!🌿 
 
-Software Engineer | Plant Parent | Maker | Creature Keeper
+Software Engineer | Maker | Creature Keeper
 
-I'm a people-oriented problem solver who happens to write code for a living. With 15+ years in IT under my belt, I've learned that the best solutions come from understanding both the technology *and* the humans behind it.
+I'm a people-oriented problem solver who happens to write code, too. With 15+ years in IT under my belt, I've learned that the best solutions come from understanding both the technology *and* the humans behind it.
 
 ## 💚 A little about me
 
-When I'm not architecting distributed systems or wrangling APIs, you'll find me:
+When I'm not deep in distributed systems or wrangling APIs, you'll find me:
 
 🪴 Tending to my cozy home of houseplants & orchids  
-🦎 Hanging out with my cuddle puddle (geckos, pacman frogs, a hognose snake, isopods, springtails, and the obligatory cats & dogs)  
-🖨️ Bringing ideas to life with my 3D printer, laser cutter, and Juliet  
-📔 Journaling in my Traveler's Notebook and Hobonichi  
+🦎 Hanging out with my critter club (geckos, pacman frogs, a hognose snake, isopods, springtails, and the obligatory cats & dogs)  
+🖨️ Bringing ideas to life with my 3D printer & laser cuter
+📔 Journaling in my Hobonichi Techo Cousin
 🎮 Getting lost in Silksong & Roguelike deckbuilders
 
 I love creating things—whether it's code, custom stationery, or a perfectly balanced terrarium. There's something deeply satisfying about building systems that work smoothly, both in software and in life.
